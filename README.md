@@ -6,7 +6,14 @@ The point of this repo is not to replace the mainstream ESX installation, ever. 
 
 It also doesn't come with a inventory since you shouldn't be using that garbage UI for that, make a real one.
 
-For OGs I made a development discord: https://discord.gg/H86eaEPwvK
+For OGs I made a **development** discord, not some 'help' discord and not for people who don't know code: https://discord.gg/H86eaEPwvK
+
+## Improvements over ESX
+
+- Server performance improvements, such as saving player data
+- Supports multiple character scripts such as kashacters
+- Supports multiple groups
+- Vehicles don't despawn ever
 
 ## Installation
 
